@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.venv/
+backend/.venv/
+backend/app/data/*.db
+backend/app/logs/*.jsonl
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
